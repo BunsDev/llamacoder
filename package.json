@@ -31,7 +31,7 @@
     "dedent": "^1.6.0",
     "framer-motion": "^11.18.0",
     "lucide-react": "^0.468.0",
-    "next": "15.5.0",
+    "next": "15.5.7",
     "next-plausible": "^3.12.4",
     "next-s3-upload": "^0.3.4",
     "react": "^19",
